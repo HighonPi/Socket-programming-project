@@ -1,4 +1,4 @@
-Instructions:
+# Problem Statement and Instructions
 
 
 This lab is to be done in groups of two. Every single line of code should be your own.
