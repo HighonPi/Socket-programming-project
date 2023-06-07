@@ -7,7 +7,7 @@ Note evaluation of this lab will be via an autograded script. These details will
 
 The program should be written in phases, with increasing levels of functionality added in each phase. Each phase requires submission of a separate client-phaseX.cc, which will be auto-evaluated for that phase functionality.
 
-You will require some files and folder structure for this lab. The same is available as a zip for download (https://drive.google.com/file/d/1xillzjSsyuUxHgGDPhH2UcxMG7sYx3Bd/view?usp=sharing). Explanation is given below. NOTE: The content within the provided files may not be the same as one used by us during auto-evaluation but the general structure will be the same.
+You will require some files and folder structure for this lab. The same is available as a zip [file](sample-data.zip) in this repository. Explanation is given below. NOTE: The content within the provided files may not be the same as one used by us during auto-evaluation but the general structure will be the same.
 
 Use loopback interfaces for initial testing (i.e. all processes run on the same machine). Once it works fine, you should run the processes on different machines and make it work. In our grading, we may run some processes on the same and some on different machines.
 
